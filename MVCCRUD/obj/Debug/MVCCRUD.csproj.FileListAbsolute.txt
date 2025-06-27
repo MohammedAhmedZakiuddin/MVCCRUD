@@ -78,6 +78,6 @@ C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\bin\Antlr3.Runtime.pdb
 C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.csproj.AssemblyReference.cache
 C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.csproj.CoreCompileInputs.cache
-C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.csproj.CopyComplete
 C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.dll
 C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.pdb
+C:\Users\ahmed\source\repos\MVCCRUD\MVCCRUD\obj\Debug\MVCCRUD.csproj.Up2Date
